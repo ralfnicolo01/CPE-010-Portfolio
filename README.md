@@ -17,13 +17,30 @@
 
 ## Repository Map
 
-Click any folder to jump straight to it.
+Click any folder or activity to jump straight to it.
 
 <pre>
 CPE-010-Portfolio
 ├── <a href="Prelims">Prelims</a>
+│   ├── <a href="Prelims/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming">Hands-on Activity 1.1 Basic C++ Programming</a>
+│   ├── <a href="Prelims/Hands-on%20Activity%202.1%20Arrays,%20Pointers%20and%20Dynamic%20Memory%20Allocation">Hands-on Activity 2.1 Arrays, Pointers and Dynamic Memory Allocation</a>
+│   ├── <a href="Prelims/Hands-on%20Activity%203.1%20Linked%20Lists">Hands-on Activity 3.1 Linked Lists</a>
+│   ├── <a href="Prelims/Hands-on%20Activity%204.1%20Stacks">Hands-on Activity 4.1 Stacks</a>
+│   └── <a href="Prelims/Hands-on%20Activity%205.1%20Queues">Hands-on Activity 5.1 Queues</a>
 ├── <a href="Midterms">Midterms</a>
+│   ├── <a href="Midterms/Hands-on%20Activity%206.1%20Searching%20Techniques">Hands-on Activity 6.1 Searching Techniques</a>
+│   ├── <a href="Midterms/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1">Hands-on Activity 7.1 Sorting Algorithms Pt1</a>
+│   ├── <a href="Midterms/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt2">Hands-on Activity 7.1 Sorting Algorithms Pt2</a>
+│   ├── <a href="Midterms/Hands-on%20Activity%208.1%20Sorting%20Algorithms">Hands-on Activity 8.1 Sorting Algorithms</a>
+│   └── <a href="Midterms/Hands-on%20Activity%209.1%20Tree%20ADT">Hands-on Activity 9.1 Tree ADT</a>
 ├── <a href="Finals">Finals</a>
+│   ├── <a href="Finals/Hands-on%20Activity%2010.1%20Graphs">Hands-on Activity 10.1 Graphs</a>
+│   ├── <a href="Finals/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis">Hands-on Activity 11.1 Basic Algorithm Analysis</a>
+│   ├── <a href="Finals/Hands-on%20Activity%2012.1%20Algorithmic%20Strategies">Hands-on Activity 12.1 Algorithmic Strategies</a>
+│   ├── <a href="Finals/Hands-on%20Activity%2013.1%20Parallel%20Algorithms%20and%20Multithreading">Hands-on Activity 13.1 Parallel Algorithms and Multithreading</a>
+│   └── <a href="Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity">Hands-on Activity 14.1 Algorithm Complexity</a>
+├── <a href="Seatwork%201.1">Seatwork 1.1</a>
+├── <a href="Seatwork%2010.1">Seatwork 10.1</a>
 └── <a href="README.md">README.md</a>
 </pre>
 
