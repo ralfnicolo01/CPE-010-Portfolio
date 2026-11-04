@@ -39,8 +39,6 @@ CPE-010-Portfolio
 │   ├── <a href="Finals/Hands-on%20Activity%2012.1%20Algorithmic%20Strategies">Hands-on Activity 12.1 Algorithmic Strategies</a>
 │   ├── <a href="Finals/Hands-on%20Activity%2013.1%20Parallel%20Algorithms%20and%20Multithreading">Hands-on Activity 13.1 Parallel Algorithms and Multithreading</a>
 │   └── <a href="Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity">Hands-on Activity 14.1 Algorithm Complexity</a>
-├── <a href="Seatwork%201.1">Seatwork 1.1</a>
-├── <a href="Seatwork%2010.1">Seatwork 10.1</a>
 └── <a href="README.md">README.md</a>
 </pre>
 
