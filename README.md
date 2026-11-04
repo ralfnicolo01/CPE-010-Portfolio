@@ -15,6 +15,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" width="100%" alt=""/>
 
+## Repository Map
+
+Click any folder to jump straight to it.
+
+<pre>
+CPE-010-Portfolio
+├── <a href="Prelims">Prelims</a>
+├── <a href="Midterms">Midterms</a>
+├── <a href="Finals">Finals</a>
+└── <a href="README.md">README.md</a>
+</pre>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" width="100%" alt=""/>
+
 ## Course Description
 
 This repository holds my laboratory work for CPE 010. The course covers the core data abstractions, data structures, and algorithms used to write efficient programs. I design algorithms for each data structure and use them to solve engineering-related problems in **C++**.
@@ -42,7 +56,7 @@ This repository holds my laboratory work for CPE 010. The course covers the core
 
 ## Topics
 
-| Prelim | Midterm | Final |
+| [Prelim](Prelims) | [Midterm](Midterms) | [Final](Finals) |
 |:--|:--|:--|
 | Algorithm analysis and ADTs | Queues (array and linked list) | Trees (BST, AVL, traversals) |
 | Arrays and linked lists | Linear search and binary search | Graphs (adjacency matrix and list) |
